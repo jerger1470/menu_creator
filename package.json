@@ -1,0 +1,25 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "add burgers, eat burgers. Simple.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerger1470/burger.git"
+  },
+  "author": "Bryan Jerger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerger1470/burger/issues"
+  },
+  "homepage": "https://github.com/jerger1470/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.18.1"
+  }
+}
