@@ -16,6 +16,6 @@ npm used: express": "^4.17.1",
 
 Future additions: Give use the ability to add more foods and add locations to food
 
-Burger App Version 1.0 Devoloped by Bryan Jerger 
+Burger App Version 1.0 Developed by Bryan Jerger 
 github: Jerger1470
 Heroku: https://warm-island-79573.herokuapp.com/
